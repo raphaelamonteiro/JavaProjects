@@ -1,4 +1,3 @@
-
 ## Projetos desenvolvidos na linguagem de programação Java - utilizando o Java Development Kit (JDK) 
 ----------------------------------------------------------------------------------------------------------
 <h2>Ambiente de Desenvolvimento: IntelliJ IDEA </h2>
