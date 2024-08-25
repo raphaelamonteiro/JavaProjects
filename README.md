@@ -1,4 +1,4 @@
-## Projetos desenvolvidos na linguagem de programação Java - utilizando o Java Development Kit (JDK) 
+## Projetos desenvolvidos na linguagem de programação Java
 ----------------------------------------------------------------------------------------------------------
 <h2>Ambiente de Desenvolvimento: IntelliJ IDEA </h2>
 <img align="center" alt="Raphs-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
