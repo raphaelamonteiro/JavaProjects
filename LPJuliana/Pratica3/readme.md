@@ -9,10 +9,22 @@ Process finished with exit code 0
 ```
 
 Saída exercício 2
-
 ```java
 Cachorro 1: Louie, Peso: 3.5, Raça: Yorkshire Terrier
-Cachorro 2: Ricardo, Idade: 64.0, Raça: São Bernardo
+Cachorro 2: Ricardo, Peso: 64.0, Raça: São Bernardo
+Peixe 1: Dolores, Peso: 2.0, Habitat: Água salgada
+Peixe 2: Coral, Peso: 2.8, Habitat: Água doce
 
 Process finished with exit code 0
 ```
+
+Saída exercício 3
+```java
+Cachorro 1: Louie, Peso: 3.5, Raça: Yorkshire Terrier
+Cachorro 2: Ricardo, Peso: 64.0, Raça: São Bernardo
+Peixe 1: Dolores, Peso: 2.0, Habitat: Água salgada
+Peixe 2: Coral, Peso: 2.8, Habitat: Água doce
+
+Process finished with exit code 0
+```
+
