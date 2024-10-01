@@ -59,12 +59,10 @@ Aqui está o **polimorfismo**: a variável `meuAnimal1` e `meuAnimal2` são amba
 - O **polimorfismo** permite que um mesmo método (`fazerSom()`) tenha comportamentos diferentes dependendo do objeto que o chama.
 - Isso é útil porque você pode escrever código genérico que funcione com diferentes tipos de objetos.
 
-Imagine que você esteja criando um jogo com vários tipos de animais. Você poderia simplesmente dizer "todos os animais devem fazer um som" e, independentemente de ser um `Cachorro` ou um `Gato`, eles saberão como fazer o som correto. Isso simplifica muito o código!
-
-O polimorfismo facilita a reutilização e a extensibilidade do código, tornando-o mais flexível e fácil de manter.
+> O polimorfismo facilita a reutilização e a extensibilidade do código, tornando-o mais flexível e fácil de manter.
 
 
-Claro, vamos simplificar mais ainda! Existem dois tipos principais de polimorfismo em Java:
+# Existem dois tipos principais de polimorfismo em Java:
 
 1. **Polimorfismo em Tempo de Compilação (Sobrecarga)**
 2. **Polimorfismo em Tempo de Execução (Sobrescrita)**
