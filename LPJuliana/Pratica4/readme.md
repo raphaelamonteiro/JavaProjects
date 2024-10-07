@@ -23,9 +23,9 @@ final o vetor obtido. <br>
 uma busca do valor de X no vetor lido e informar a posição em que foi encontrado ou se não foi
 encontrado. <br>
 
-07. Dado dois vetores, A (5 elementos) e B (8 elementos), faça um programa em C que imprima todos os
+07. Dado dois vetores, A (5 elementos) e B (8 elementos), faça um programa que imprima todos os
 elementos comuns aos dois vetores. <br>
 
 
-8. Suponha um vetor N com 10 elementos e outro vetor M com 10 elementos. Faça um programa em C que
+8. Suponha um vetor N com 10 elementos e outro vetor M com 10 elementos. Faça um programa que
 calcule o produto escalar P de A por B. (Isto é, P =A[1]*B[1] + A[2]*B[2] + ... A[N]+B[N]).
